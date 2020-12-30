@@ -42,7 +42,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
